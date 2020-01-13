@@ -1,24 +1,28 @@
 # Word-Guessing-Game
 randomly selects one of the words provided in wordlist.txt file and presents a console interaction for the User to guess the word.
+
+## running the program
+you can use the terminal to run this sample program by typing $java ApplicationRunner$
 **Example console output: User successfully guesses the word within allowed number of guesses.**
-Word Guessing Game
-Play (1) or Exit (0) > 1
-_ _ _ _ _ _ _
-0 wrong guesses so far [ ]
-Have a guess (lower case letter or * to give up)
-> e
-_ _ _ _ _ _ _
-1 wrong guesses so far [ e ]
-Have a guess (lower case letter or * to give up)
-> a
-_ _ _ a _ _ a
-1 wrong guesses so far [ e ]
-Have a guess (lower case letter or * to give up)
-> i
-_ i _ a _ _ a
-1 wrong guesses so far [ e ]
-Have a guess (lower case letter or * to give up)
-> t
+
+*Word Guessing Game
+*Play (1) or Exit (0) > 1
+*- - - - - - - - - -
+*0 wrong guesses so far [ ]
+*Have a guess (lower case letter or * to give up)
+*> e
+*- - - - - - -
+*1 wrong guesses so far [ e ]
+*Have a guess (lower case letter or * to give up)
+*> a
+*- - - a - - a
+*1 wrong guesses so far [ e ]
+*Have a guess (lower case letter or * to give up)
+*> i
+*- i - a - - a
+*1 wrong guesses so far [ e ]
+*Have a guess (lower case letter or * to give up)
+*> t
 _ i _ a _ _ a
 2 wrong guesses so far [ e t ]
 Have a guess (lower case letter or * to give up)
