@@ -2,7 +2,7 @@
 randomly selects one of the words provided in wordlist.txt file and presents a console interaction for the User to guess the word.
 
 ## running the program
-you can use the terminal to run this sample program by typing $java ApplicationRunner
+you can use the terminal to run this sample program by typing ```java ApplicationRunner```<br>
 **Example console output: User successfully guesses the word within allowed number of guesses.**
 <div>
 	<em>
